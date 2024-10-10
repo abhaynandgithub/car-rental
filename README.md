@@ -1,6 +1,6 @@
 # 🚗 Car Rental System
 
-Explore the world of car rentals with the **Car Rental System**, a CPP-based console application that combines learning and simulation. 🌟
+Explore the world of car rentals with the **Car Rental System**, a java-based console application that combines learning and simulation. 🌟
 
 ## Features
 
